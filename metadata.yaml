@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5279
     wikipedia: http://en.wikipedia.org/wiki/Henry_Newbolt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13900#Collected-Poems-1897---1907-by-Henry-Newbolt
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
